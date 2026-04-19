@@ -65,7 +65,7 @@ export default function Logo() {
           RAHUL
         </span>
         <span className="text-[10px] font-mono text-gray-400 dark:text-gray-500 tracking-widest">
-          DATA ENG
+          CHOUDHARY
         </span>
       </div>
     </motion.a>

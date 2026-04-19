@@ -112,7 +112,7 @@ export default function Terminal() {
               <div className="w-3 h-3 rounded-full bg-green-500" />
             </div>
             <span className="text-xs text-gray-400 ml-2 font-mono">
-              rahul@rubrik-data ~ zsh
+              rahul@cloudeqs-data ~ zsh
             </span>
           </div>
 

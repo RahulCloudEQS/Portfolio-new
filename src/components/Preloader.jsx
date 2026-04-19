@@ -105,7 +105,7 @@ export default function Preloader({ onComplete }) {
             className="text-center mb-8"
           >
             <h2 className="text-2xl font-bold gradient-text mb-1">Rahul Choudhary</h2>
-            <p className="text-sm font-mono text-gray-500">Data Engineer</p>
+            <p className="text-sm font-mono text-gray-500"> AI / Data Engineer</p>
           </motion.div>
 
           {/* Progress bar */}

@@ -4,6 +4,7 @@ import { ArrowDown, FileText, Mail, Download } from 'lucide-react';
 import { personal } from '../data/content';
 
 const roles = [
+  "AI Engineer",
   "Data Engineer",
   "Analytics Engineer",
   "Pipeline Architect",

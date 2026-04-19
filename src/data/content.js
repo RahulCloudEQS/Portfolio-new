@@ -63,7 +63,7 @@ export const experience = [
     location: "Remote, India",
     period: "June 2024 — Present",
     type: "Full-time",
-    description: "Enterprise data infrastructure powering analytics for a leading cybersecurity company.",
+    description: "Enterprise data infrastructure powering analytics for a leading Data Analytics Service Provider company.",
     bullets: [
       "Engineered scalable dbt transformation layer processing 10M+ daily records across 200+ models, reducing data latency from hours to minutes",
       "Optimized Snowflake warehouse configurations and query patterns, cutting compute costs by 35% while improving query performance by 40%",
