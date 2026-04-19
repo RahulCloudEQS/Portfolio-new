@@ -7,7 +7,7 @@ const resumeHighlights = [
   {
     icon: Briefcase,
     title: "2+ Years Experience",
-    description: "Data Engineering at Rubrik (Enterprise Cybersecurity)",
+    description: "Data Engineering at Cloud EQS (Data as a Service Company)",
   },
   {
     icon: Award,
